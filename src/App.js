@@ -4,7 +4,7 @@ import '@tensorflow/tfjs-backend-cpu';
 import '@tensorflow/tfjs-backend-webgl';
 import { loadLayersModel, IOHandler } from '@tensorflow/tfjs-layers';
 
-import modelJson from './model (1).json';
+import modelJson from './vgg16_model.json';
 
 const customIOHandler: IOHandler = {
   async load() {

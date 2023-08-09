@@ -126,14 +126,14 @@ code {
 }
 
 .resultsHolder .result {
-    border: 1px solid #333;
+    border: 1px solid #1f00cc;
     margin: 0 0 10px;
     padding: 10px;
 }
 
 .resultsHolder .result:first-of-type {
-    border-color: #333;
-    background-color: #333;
+    border-color: #aa0000;
+    background-color: #00e600;
 }
 
 .resultsHolder .result:first-of-type .name {
